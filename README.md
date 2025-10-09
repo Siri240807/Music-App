@@ -1,0 +1,1 @@
+A simple Spotify-inspired music player built with HTML, CSS, and JavaScript. Features include a clean responsive UI, interactive playlist, play/pause/next controls, progress bar, and song details display.
